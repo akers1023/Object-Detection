@@ -1,0 +1,50 @@
+{
+  "name": "testfirebase",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@expo/webpack-config": "^19.0.0",
+    "@react-native-async-storage/async-storage": "1.18.2",
+    "@react-native-community/blur": "^4.3.2",
+    "@react-navigation/material-bottom-tabs": "^6.2.19",
+    "@react-navigation/native": "^6.1.9",
+    "@react-navigation/native-stack": "^6.9.16",
+    "@react-navigation/stack": "^6.3.20",
+    "@types/react": "~18.2.14",
+    "axios": "^1.6.2",
+    "date-fns": "^2.30.0",
+    "expo": "~49.0.13",
+    "expo-camera": "~13.4.4",
+    "expo-file-system": "~15.4.5",
+    "expo-image-picker": "~14.3.2",
+    "expo-media-library": "~15.4.1",
+    "expo-status-bar": "~1.6.0",
+    "firebase": "^10.5.0",
+    "fs": "^0.0.1-security",
+    "install": "^0.13.0",
+    "lottie-react-native": "5.1.6",
+    "path": "^0.12.7",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-native": "0.72.6",
+    "react-native-fs": "^2.20.0",
+    "react-native-gesture-handler": "~2.12.0",
+    "react-native-image-crop-picker": "^0.40.2",
+    "react-native-paper": "^5.11.1",
+    "react-native-svg": "13.9.0",
+    "react-native-vector-icons": "^10.0.0",
+    "react-native-web": "~0.19.6",
+    "typescript": "^5.1.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0",
+    "@types/react-native-vector-icons": "^6.4.18"
+  },
+  "private": true
+}
